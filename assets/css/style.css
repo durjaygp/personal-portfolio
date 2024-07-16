@@ -77,11 +77,11 @@
 }
 
 [data-color=red] {
-  --bs-primary: #e65f78;
-  --bs-primary-text-emphasis: rgb(232, 81, 108);
-  --bs-primary-border-subtle: #e65f78;
-  --bs-primary-rgb: 232, 95, 120;
-  --bs-primary-bg-subtle: #e65f78;
+  --bs-primary: #009688;
+  --bs-primary-text-emphasis: rgb(0, 150, 136);
+  --bs-primary-border-subtle: #009688;
+  --bs-primary-rgb: 0, 150, 136;
+  --bs-primary-bg-subtle: #009688;
 }
 
 [data-color=sky] {
@@ -1207,16 +1207,16 @@ ul.pattern .color6 {
 }
 
 .custom-nav.stickyadd {
-  background-color: var(--bs-body-bg) !important;
+  background-color: #141B29 !important;
   padding: 15px 0px;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05);
 }
 
 .custom-nav.stickyadd .navbar-nav li a {
-  color: var(--black) !important;
+  color: #ffffff !important;
 }
 .custom-nav.stickyadd .navbar-nav .active {
-  color: var(--bs-primary) !important;
+  color: #009688 !important;
 }
 
 [data-bs-theme=dark] .stickyadd .logo .logo-light {
